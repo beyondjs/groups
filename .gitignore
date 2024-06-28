@@ -1,0 +1,6 @@
+.beyond
+credentials
+node_modules/
+!src/modules/node_modules/
+/src/node_modules
+/tests/node_modules

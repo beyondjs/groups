@@ -1,0 +1,6 @@
+{
+	"name": "errors",
+	"platforms": ["node", "backend"],
+	"bundle": "ts",
+	"files": "*"
+}
